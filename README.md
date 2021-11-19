@@ -1,5 +1,5 @@
 # Report-SweetViz
-## Exporatory Analysis with Sales dataset from a generic enterprise, looking for insights and future KPIs.
+## Exporatory Analysis using Sales dataset from a generic enterprise, looking for insights and future KPIs.
 It was coded in Python and the following libs:
 - Pandas
 - Sweetviz
